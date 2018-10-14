@@ -1,0 +1,23 @@
+{
+  "name": "node_addons",
+  "version": "1.0.0",
+  "description": "Node addons usage sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BagrijRoman/node_addons.git"
+  },
+  "keywords": [
+    "node",
+    "addons"
+  ],
+  "author": "BagrijRoman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BagrijRoman/node_addons/issues"
+  },
+  "homepage": "https://github.com/BagrijRoman/node_addons#readme"
+}
